@@ -2,7 +2,7 @@
 .cards {
   display: flex;
   flex-wrap: wrap;
-  justify-content: flex-start;
+  justify-content: flex-end;
 }
 
 .cards img {
@@ -12,3 +12,4 @@
   max-width: 25vw;
   height: auto;
 }
+
